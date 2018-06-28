@@ -1,0 +1,8 @@
+# eclipse
+/build/
+.settings
+.classpath
+.project
+# idea
+.idea
+hql_builder.iml
