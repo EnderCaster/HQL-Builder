@@ -1,7 +1,6 @@
-package com.endercaster.util.BaseModel;
+package com.endercaster.util;
 
-import com.endercaster.util.BaseModel.impl.ModelInterface;
-import com.endercaster.util.HQLBuilder.HQLQuery;
+import com.endercaster.util.impl.ModelInterface;
 
 public class Model extends HQLQuery implements ModelInterface{
 

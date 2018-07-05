@@ -1,4 +1,4 @@
-package com.endercaster.util.QueryBuilder.impl;
+package com.endercaster.util.impl;
 
 public interface QueryInterface {
 	public String all();

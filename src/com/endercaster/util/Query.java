@@ -1,8 +1,8 @@
-package com.endercaster.util.QueryBuilder;
+package com.endercaster.util;
 
 import java.util.HashMap;
 
-import com.endercaster.util.QueryBuilder.impl.QueryInterface;
+import com.endercaster.util.impl.QueryInterface;
 
 public class Query implements QueryInterface {
 
